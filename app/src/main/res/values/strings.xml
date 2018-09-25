@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+    <string name="app_title">Speech to Text</string>
+    <string name="author">Nicolás Zorzano</string>
+</resources>
